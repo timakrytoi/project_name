@@ -944,13 +944,13 @@ transform: rotateY(180deg);
 
 .lego {
 background: rgb(26, 26, 26);
-width: 100%;
+width: 500px;
 }
 
 .lego-mans {
 display: flex;
 flex-direction: row;
-justify-content: space-between;
+justify-content: space-around;
 }
 
 @media (max-width: 1440px) {
